@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "exchange.uri",
+      "type": "java.net.URI",
+      "description": "Description for exchange.uri."
+    },
+    {
+      "name": "exchange.username",
+      "type": "java.lang.String",
+      "description": "Description for exchange.username."
+    },
+    {
+      "name": "exchange.password",
+      "type": "java.lang.String",
+      "description": "Description for exchange.password."
+    }
+  ] }
